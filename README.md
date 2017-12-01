@@ -42,4 +42,6 @@ Simple navigation buttons for returning to the home page or going back to the pr
 
 ### About the App
 
-The project was bootstrapped with create-react-app.
+The API server was provided in the "starter project" for the course. I left this essentially unchanged. The original README.md file for the starter was renamed as StarterREADME.md.
+
+I created the frontend to fulfill the requirements of the course project. The frontend was bootstrapped with create-react-app.
