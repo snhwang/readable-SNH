@@ -40,7 +40,7 @@ Clicking on a post ID on either of these pages will take the user to a post view
 
 Simple navigation buttons for returning to the home page or going back to the previous page are available when useful, such as on the editing and adding forms for the posts and comments. The browser back arrow can also be used.
 
-### About the App
+## About the App
 
 The API server was provided in the "starter project" for the course. I left this essentially unchanged. The original README.md file for the starter was renamed as StarterREADME.md.
 
