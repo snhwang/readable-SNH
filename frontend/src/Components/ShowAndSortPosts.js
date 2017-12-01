@@ -58,7 +58,6 @@ class ShowAndSortPosts extends Component {
           _.map(currentPosts, post => (
             <li key={post.id} >
               <div>
-                <p> Current post is {post.id} </p>
                 {post ?
                   <ListSinglePost postId={post.id}/>
                   : ""
